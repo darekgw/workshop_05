@@ -9,11 +9,8 @@ public	class	BookController	{
 	
 	
 @RequestMapping("/hello")
-	
 public	String	hello(){
 	
-	
 return	"{hello:	World}";
-	
 }
 }
